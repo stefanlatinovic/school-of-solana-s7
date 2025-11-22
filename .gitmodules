@@ -1,0 +1,18 @@
+[submodule "school-of-solana-season-7-task1"]
+	path = school-of-solana-season-7-task1
+	url = https://github.com/stefanlatinovic/school-of-solana-season-7-task1
+[submodule "school-of-solana-season-7-task2"]
+	path = school-of-solana-season-7-task2
+	url = https://github.com/stefanlatinovic/school-of-solana-season-7-task2
+[submodule "school-of-solana-season-7-task3"]
+	path = school-of-solana-season-7-task3
+	url = https://github.com/stefanlatinovic/school-of-solana-season-7-task3
+[submodule "school-of-solana-season-7-task4"]
+	path = school-of-solana-season-7-task4
+	url = https://github.com/stefanlatinovic/school-of-solana-season-7-task4
+[submodule "school-of-solana-season-7-task5"]
+	path = school-of-solana-season-7-task5
+	url = https://github.com/stefanlatinovic/school-of-solana-season-7-task5
+[submodule "school-of-solana-season-7-program"]
+	path = school-of-solana-season-7-program
+	url = https://github.com/stefanlatinovic/school-of-solana-season-7-program
